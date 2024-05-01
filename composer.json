@@ -1,10 +1,10 @@
 {
-    "name": "amirhamdy/giata-hotels-api",
+    "name": "a3699z/hotel-api",
     "description": "this is a giata hotels api",
     "authors": [
         {
-            "name": "Amir Hamdy",
-            "email": "amirhamdy4@gmail.com"
+            "name": "ahmed zidan",
+            "email": "zidanahmed084@gmail.com"
         }
     ],
     "minimum-stability": "dev",
